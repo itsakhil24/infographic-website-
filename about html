@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ABOUT</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href="https://fonts.googleapis.com/css2?family=Karla:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" rel="stylesheet"> </head>
+<body>
+<div class="top">
+    <header>
+        <nav>
+            <h2>LOGO</h2>
+            <div class="nav-list">
+                <a href="index.html">home</a>
+                <a href="#about">about</a>
+                <a href="contact.html">contact</a>
+                <a href="info.html">INFOGRAPHS</a>
+                
+            </div>
+            <form action="/action_page.php">
+                <input type="text" placeholder="Search.." name="search">
+                <button type="submit"><i class="fa fa-search"></i></button>
+              </form>
+        </nav>
+    </header>
+</div>
+
+    <section>
+        <div class="main-text">
+<h1 style="font-size: 106px;">ABOUT US</h1>
+        </div>
+    </section>
+
+   <div class="about">
+       <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat at minima ab dignissimos omnis. Ea velit alias laudantium aut quis nostrum tempora dolorem officia fuga consequatur rem est a totam, nihil accusamus iusto dolor perferendis quae debitis, maxime corrupti minus!</p>
+       <img src="https://img.freepik.com/free-vector/business-team-discussing-ideas-startup_74855-4380.jpg?t=st=1650453148~exp=1650453748~hmac=3db2d3eaf697d363c5d90551b942a50e43c9c55ef52149e7cbf3a85217c3ccf6&w=740" alt="">
+   </div>
+
+   <div class="about about-1">
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat at minima ab dignissimos omnis. Ea velit alias laudantium aut quis nostrum tempora dolorem officia fuga consequatur rem est a totam, nihil accusamus iusto dolor perferendis quae debitis, maxime corrupti minus!</p>
+    <img src="https://img.freepik.com/free-vector/group-tiny-people-standing-around-lightbulb-office-meeting-work-community-creating-new-idea-finding-solution-problem-flat-vector-illustration-team-brainstorming-business-idea-concept_74855-21878.jpg?w=740" alt="">
+</div>
+
+
+<div class="about">
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat at minima ab dignissimos omnis. Ea velit alias laudantium aut quis nostrum tempora dolorem officia fuga consequatur rem est a totam, nihil accusamus iusto dolor perferendis quae debitis, maxime corrupti minus!</p>
+    <img src="https://img.freepik.com/free-vector/business-team-discussing-ideas-startup_74855-4380.jpg?t=st=1650453148~exp=1650453748~hmac=3db2d3eaf697d363c5d90551b942a50e43c9c55ef52149e7cbf3a85217c3ccf6&w=740" alt="">
+</div>
+
+
+
+
+</body>
+</html>
